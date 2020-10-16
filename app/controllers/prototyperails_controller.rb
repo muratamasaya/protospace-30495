@@ -1,0 +1,2 @@
+class PrototyperailsController < ApplicationController
+end
